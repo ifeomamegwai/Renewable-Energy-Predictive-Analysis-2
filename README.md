@@ -9,6 +9,9 @@
   
 -  MAE of 0.14 indicates relatively accurate predictions, deviating from actual values by only 0.14 on the average. 
 
--  The feature importance chart shows that Wind and hydro capacities had the strongest predictive impact on reducing fossil fuel reliance and should be prioritized in renewable energy strategies
+-  The feature importance chart shows that Wind and hydro capacities had the strongest predictive impact on reducing fossil fuel reliance and should be prioritized in renewable energy strategies.
+  
+-  The coefficient plot shows a reasonable match between predicted and actual values. The outliers suggest the model struggles with extreme cases of fossil fuel changes.
+
   
 -  In conclusion, While this analysis provides useful predictions to guide renewable energy investment, additional external factors beyond entities renewable energy capacity changes, such as economic, political, or technological factors, should also be considered for a fuller understanding of reduction in fossil fuel reliance.
